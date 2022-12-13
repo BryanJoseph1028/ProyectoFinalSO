@@ -1,0 +1,6 @@
+Que comando en linux utilizamos para saber en que directorio estamos?
+Que comando en linux utilizamos para saber en que directorio estamos? Es el fichero en donde creamos un contenedor? ¿es el objeto a la cual queremos proteger? 
+Cual es el comando en linux para saber la direccion en las que estamos? 
+Como se llama el documento para construir contenedores? 
+Cual es el area que queremos proteger de los semaforos? 
+que comando utilizamos para saber wn que directorio estamos? cual es el archivo por en el cual construimos el contenedor? cual es el el area al la cual queremos proteger de los semaforos? 
